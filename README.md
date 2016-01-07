@@ -4,7 +4,7 @@
 ## About Me
 My name is Katherine Flaschen.
 
-### My favorite things to do:
+## My favorite things to do:
 * Yoga
 * Play soccer
 * Travel
